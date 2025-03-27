@@ -19,3 +19,11 @@ em {
 html {
     font-family: 20px; /* 设置根元素字体大小 */ 
 }
+
+body{
+	color: royalblue;
+	color: rgb(65, 105, 225);
+	color: #df72c3;
+	color: rgba(39,177,182,0.8);
+	color: #2775b6CC;
+}
